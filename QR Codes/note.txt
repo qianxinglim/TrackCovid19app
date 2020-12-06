@@ -1,0 +1,4 @@
+QR Codes can be created in any QR Code generator. 
+Kindly refer to the other QRCodes URL in the folder and change it to your ip address while creating new QR Code.
+
+*Same to every URL contained in the java file.

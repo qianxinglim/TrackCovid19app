@@ -1,0 +1,4 @@
+1. https://corona.lmao.ninja/v2/all
+2. https://corona.lmao.ninja/v2/all?yesterday=true
+3. https://corona.lmao.ninja/v2/countries
+4. https://corona.lmao.ninja/v2/countries?yesterday=true
